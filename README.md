@@ -1,3 +1,7 @@
+## Link
+Because Github web doesnt support files over 25 MB, you can download the 7zip file, then extract it and open the executable (WINDOWS ONLY)
+https://drive.google.com/file/d/1TcPlUZMApshi5dAR74LSKYI3U_wkeq88/view?usp=sharing
+
 # Python-Clock-App
 A simple clock to display your current time in 24 hour format, also marks the very first desktop app I made for Windows.
 
